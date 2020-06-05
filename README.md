@@ -9,7 +9,7 @@ The program accommodates multiple medical facilities; services lines and sub-ser
 ## How to use the program
 The initial conditions assume sub-services are currently closed due to the COVID-19 pandemic and admitting all the patient backlog at once is not feasible due to shared resource constraints (e.g. COVID-19 tests, ventilators, shared beds, operating rooms, etc).
 
-Using existing capacity, historical utilization, and forecasted demand, a recommended optimal reopening plan is developed to indicate which sub-services to open and when. The base model seeks to maximize revenue and margin in creating the plan.
+Using existing capacity, historical utilization, and forecasted demand, a recommended optimal reopening plan is developed to indicate which sub-services to open and when.
 
 Other objectives like maximizing total patient volumes, impacts of secondary COVID-19 surge scenarios, and configuration of clinical centers of excellence are additional use cases for future extensions of the program.  
 
